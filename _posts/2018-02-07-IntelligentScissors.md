@@ -20,7 +20,7 @@ The project detail is in [6000C Homepage](https://home.cse.ust.hk/~cktang/msbd60
 
 Due to the intranet's limitation, you can click the [Washington CSE 455](https://courses.cs.washington.edu/courses/cse455/03wi/projects/project1/web/project1.htm) for temporary referrence, which is quite similar.
 
-![](https://raw.githubusercontent.com/wsgtcyx/wsgtcyx.github.io/master/img/home-bg-geek.jpg)
+![](https://ws2.sinaimg.cn/large/006tNc79gy1fo6xbl2fjej31kw0zkwya.jpg)
 
 
 
