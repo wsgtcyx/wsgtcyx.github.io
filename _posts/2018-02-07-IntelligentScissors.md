@@ -4,7 +4,7 @@ title:      Intelligent Scissors(6000C computer Vision project No.1)
 subtitle:   So complicated!
 date:       2018-02-07
 author:     CHEN	Yuxiang
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-os-metro.jpg
 catalog: true
 tags:
     - C++
@@ -20,6 +20,7 @@ The project detail is in [6000C Homepage](https://home.cse.ust.hk/~cktang/msbd60
 
 Due to the intranet's limitation, you can click the [Washington CSE 455](https://courses.cs.washington.edu/courses/cse455/03wi/projects/project1/web/project1.htm) for temporary referrence, which is quite similar.
 
+![](https://raw.githubusercontent.com/wsgtcyx/wsgtcyx.github.io/master/img/home-bg-geek.jpg)
 
 
 
