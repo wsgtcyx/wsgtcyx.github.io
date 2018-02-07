@@ -9,21 +9,35 @@ catalog: true
 tags:
     - C++
     - QT
-    - Priority queue
+    - Priority Queue
     - Opencv
     
 ---
 # Project Description
-#### Project Details
+### Project Details
 
 The project detail is in [6000C Homepage](https://home.cse.ust.hk/~cktang/msbd6000c/Password_Only/projects/iscissor/index.html). 
 
 Due to the intranet's limitation, you can click the [Washington CSE 455](https://courses.cs.washington.edu/courses/cse455/03wi/projects/project1/web/project1.htm) for temporary referrence, which is quite similar.
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fo6xbl2fjej31kw0zkwya.jpg)
 
+# Usage
+### Universal procedure
+#### 1. Load Picture
+You can choose any picture in your computer by selecting in the File Manager.
 
+For example, I **open** a example picture of Opencv.
 
+#### 2. Zoom in(out)
+Now you can zoom in or zoom out the picture.
+
+I click zoom in and I get a bigger picture.
+
+#### 3. Choose Mode
+For universal Use, we choose **Min Path**.
+
+#### 4. Start drawing
+Now you click **start** to start drawing.
 >最后附上GitHub：<https://github.com/wsgtcyx/qt_test>
 
 <!--# 常见操作方法介绍
