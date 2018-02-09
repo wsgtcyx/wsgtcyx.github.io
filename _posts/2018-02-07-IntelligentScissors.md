@@ -13,7 +13,7 @@ tags:
     - Opencv
     
 ---
-# Project Description
+# A.Project Description
 ### Project Details
 
 The project detail is in [6000C Homepage](https://home.cse.ust.hk/~cktang/msbd6000c/Password_Only/projects/iscissor/index.html). 
@@ -21,12 +21,12 @@ The project detail is in [6000C Homepage](https://home.cse.ust.hk/~cktang/msbd60
 Due to the intranet's limitation, you can click the [Washington CSE 455](https://courses.cs.washington.edu/courses/cse455/03wi/projects/project1/web/project1.htm) for temporary referrence, which is quite similar.
 
 
-# Usage
-### Universal procedure
+# B.General usage
 #### 1. Load Picture
 You can choose any picture in your computer by selecting in the File Manager.
 
-For example, I **open** a example picture of Opencv.
+For example, I **open** an example picture of Opencv.
+
 
 #### 2. Zoom in(out)
 Now you can zoom in or zoom out the picture.
@@ -39,6 +39,8 @@ For universal Use, we choose **Min Path**.
 #### 4. Start drawing
 Now you click **start** to start drawing.
 >最后附上GitHub：<https://github.com/wsgtcyx/qt_test>
+
+ <video controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png"><source src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4"><source src="http://media.w3.org/2010/05/sintel/trailer.webm" type="video/webm"><source src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg"><p>Your user agent does not support the HTML5 Video element.</p></video>
 
 <!--# 常见操作方法介绍
 
