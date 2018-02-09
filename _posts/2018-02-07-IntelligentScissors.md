@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Intelligent Scissors(6000C computer Vision project No.1)
-subtitle:   So complicated!
+title:      Intelligent Scissors
+subtitle:   So complicated!(6000C CV project No.1)
 date:       2018-02-07
 author:     CHEN	Yuxiang
 header-img: img/post-bg-os-metro.jpg
