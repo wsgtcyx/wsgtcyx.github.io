@@ -23,6 +23,13 @@ Due to the intranet's limitation, you can click the [Washington CSE 455](https:/
 ### Fantastic show(extract the hat out)
 ![](https://raw.githubusercontent.com/wsgtcyx/wsgtcyx.github.io/master/img/intelligent scissors/dynamic.gif)
 
+### Develop environment
+Develop Environment: Qt5 + Opencv3
+
+Programming language: C++
+
+System: MacOS 10.13
+
 # B.General usage
 #### 1. Load Picture
 You can choose any picture in your computer by selecting in the File Manager.
