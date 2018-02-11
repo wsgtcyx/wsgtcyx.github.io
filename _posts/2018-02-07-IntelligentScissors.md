@@ -18,7 +18,7 @@ tags:
 
 The project detail is in [6000C Homepage](https://home.cse.ust.hk/~cktang/msbd6000c/Password_Only/projects/iscissor/index.html). 
 
-Due to the intranet's limitation, you can click the [Washington CSE 455](https://courses.cs.washington.edu/courses/cse455/03wi/projects/project1/web/project1.htm) for temporary referrence, which is quite similar.
+Due to the intranet's limitation, you can click the [Washington CSE 455](https://courses.cs.washington.edu/courses/cse455/03wi/projects/project1/web/project1.htm) for temporary reference, which is quite similar.
 
 ### Fantastic show(automatically extract the hat out)
 ![](https://raw.githubusercontent.com/wsgtcyx/wsgtcyx.github.io/master/img/intelligent scissors/dynamic.gif)
@@ -97,6 +97,7 @@ show minimum path tree in the cost graph for the current seed; You can use the c
 # D.small fancy functions
 - zoom in(out)
 - save contour(mask)
+- track the real time position and click position of mouse.
 
 
 >最后附上GitHub：<https://github.com/wsgtcyx/IntelligentScissors>
