@@ -94,14 +94,14 @@ show minimum path tree in the cost graph for the current seed; You can use the c
  
 ![](https://raw.githubusercontent.com/wsgtcyx/wsgtcyx.github.io/master/img/intelligent scissors/path tree.gif)
 
-# D.small fancy functions
+# D.Small fancy functions
 - zoom in(out)
 - save contour(mask)
 - track the real time position and click position of mouse.
 
 # E.Artifact
 
-
+![](https://raw.githubusercontent.com/wsgtcyx/wsgtcyx.github.io/master/img/intelligent scissors/integration.png)
 
 >最后附上GitHub：<https://github.com/wsgtcyx/IntelligentScissors>
 
