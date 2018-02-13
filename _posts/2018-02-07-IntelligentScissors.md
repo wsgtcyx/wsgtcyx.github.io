@@ -4,7 +4,7 @@ title:      Intelligent Scissors
 subtitle:   So complicated!(6000C CV project No.1)
 date:       2018-02-07
 author:     CHEN	Yuxiang
-header-img: img/post-bg-os-metro.jpg
+header-img: img/intelligent scissors/main.jpg
 catalog: true
 tags:
     - C++
