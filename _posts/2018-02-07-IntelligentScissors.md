@@ -99,6 +99,9 @@ show minimum path tree in the cost graph for the current seed; You can use the c
 - save contour(mask)
 - track the real time position and click position of mouse.
 
+# E.Artifact
+
+
 
 >最后附上GitHub：<https://github.com/wsgtcyx/IntelligentScissors>
 
