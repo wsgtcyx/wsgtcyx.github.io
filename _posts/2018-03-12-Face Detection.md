@@ -89,7 +89,7 @@ Sample result
 ![](https://ws1.sinaimg.cn/large/006tNc79gy1fpa03994amj30mq0fy0u0.jpg)
    
 
-# D. Bouns
+# D. Bonus
 ### 1. Hard negative mining
 Details
 
